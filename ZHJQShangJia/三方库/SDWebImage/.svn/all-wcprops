@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDImageCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDImageCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageManager.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageDownloaderOperation.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImage+WebP.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/NSData+ImageContentType.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIView+WebCacheOperation.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageDownloader.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIView+WebCacheOperation.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/ChatDemo-UI3.0/LPCViewController/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/LIB/SDWebImage/SDWebImageOperation.h
+END

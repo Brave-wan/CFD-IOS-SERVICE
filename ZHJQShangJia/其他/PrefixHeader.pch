@@ -1,0 +1,256 @@
+//
+//  PrefixHeader.pch
+//  ZHJQShangJia
+//
+//  Created by 韩保贺 on 16/7/27.
+//  Copyright © 2016年 曲宗哲. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+
+// 电池栏的高度
+#define State_HEIGHT ([[UIApplication sharedApplication] statusBarFrame].size.height)
+
+#define iOS7 [[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0
+
+#define COLOR(R, G, B, A) [UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:A]
+
+
+#define SHARE_APP (AppDelegate*)[[UIApplication sharedApplication] delegate]
+
+#define REDCOLOR   COLOR(251 , 63, 81, 1)
+
+#define BLUECOLOR  COLOR(0 , 150, 224, 1)
+
+#define BACKCOLOR  COLOR(237 , 243, 248, 1)
+
+// 店铺中心的上面的三个认证
+#import "HeadViewButton.h"
+// 店铺中心
+#import "LPCInformationViewController.h"
+
+#import "LPCCustomView.h"
+
+#import "LPCSetingViewController.h"
+
+#import "LPCModifyPasswordViewController.h"
+
+#import "WCAlertView.h"
+
+#import "ZHJQHLoginViewControll.h"
+
+#import "LPCDLCZViewController.h"
+
+#import "LPCSearchResultViewController.h"
+
+#import "LPCAlert.h"
+
+#import "LPCNewsViewController.h"
+
+#import "LPCNewsDeleViewController.h"
+
+#import "LPCPersonauthenticationViewController.h"
+
+#import "LPCCertificationViewController.h"
+
+#import "LPCOffViewController.h"
+
+#import "LPCNumViewController.h"
+
+#import "LPCTabelVIewHieadView.h"
+
+#import "LPCHDetailsViewController.h"
+
+#import "LPCJDelegaietViewController.h"
+
+#import "LPCCommodityViewController.h"
+
+#import "LPCCustomTextFild.h"
+
+#import "LPCSegemView.h"
+
+#import "LPCGoodsDeliteViewController.h"
+
+#import "LPCGoodsOkViewController.h"
+
+#import "LPCHotelNOViewController.h"
+
+#import "LPCHotelOkViewController.h"
+
+#import "LPCHoteloverdueViewController.h"
+
+#import "LPCHoteEatDeleViewController.h"
+
+#import "LPCHotelYesViewController.h"
+
+#import "LPCHoteloverViewController.h"
+
+#import "LPCZHFDNoViewController.h"
+
+#import "LPCJDNoViewController.h"
+
+#import "LPCResinDelegateViewController.h"
+
+#import "WFActionSheet.h"
+
+#import "LGPhotoPickerViewController.h"
+
+#import "AppDelegate.h"
+
+#import "HttpTool.h"
+
+#import "Defind.h"
+
+#import "LPCSearBarViewController.h"
+
+#import "LPCbugeSegmentView.h"
+
+#import "ZHJQHttpToll.h"
+
+#import "UIViewController+HUD.h"
+
+#import "JSONKit.h"
+#import "UIImageView+WebCache.h"
+#import "fandiantukuaidingdanVCViewController.h"
+#import "MJChiBaoZiFooter.h"
+#import "MJChiBaoZiHeader.h"
+
+//请求三方
+#import "YYModel.h"
+
+#pragma mark 登录的model
+#import "LPCloginModel.h"
+#import "LPCgoodModel.h"
+#import "MJChiBaoZiFooter.h"
+#import "MJChiBaoZiHeader.h"
+
+#import "LPCsearcjbarshangpinViewController.h"
+#import "LPCSearcherjiudianViewController.h"
+
+
+#pragma mark 接口宏定
+
+//#define LPCBASEURL  @"http://139.129.167.238:88/cfdScenic/"
+
+#define LPCBASEURL @"http://sdy.cfdsd.com/cfdScenic/"
+
+//@"http://192.168.1.149/cfdScenic/"
+
+//http://sdy.cfdsd.com
+
+#define LPCJIUDIANHEGIHT   5
+
+// 登录
+#define LPCLOGINURL [NSString stringWithFormat:@"%@shopUser/login",LPCBASEURL]
+
+// 获取验证码
+//#define LPCCODE  @"http://192.168.1.149/cfdScenic/consumerUser/checkCode"
+
+#define LPCCODE  [NSString stringWithFormat:@"%@consumerUser/checkCode",LPCBASEURL]
+
+// 注册
+#define LPCRESGIN [NSString stringWithFormat:@"%@shopUser/register",LPCBASEURL]
+
+//提交注册信息
+#define LPCRESGINUP [NSString stringWithFormat:@"%@shopUser/auditMessage",LPCBASEURL]
+
+#define LPCPHOTOUP  [NSString stringWithFormat:@"%@interFace/myTickets/upload",LPCBASEURL]
+
+// 获取店铺信息
+#define  LPCSTOREINFORMATION  [NSString stringWithFormat:@"%@shopUser/storeMessage",LPCBASEURL]
+
+// 重置密码
+#define  LPCRESETPASSWORD   [NSString stringWithFormat:@"%@shopUser/updateShopPsw",LPCBASEURL]
+
+// 商家余额
+#define LPCMERCHANTBALANCE [NSString stringWithFormat:@"%@shopUser/myBalance",LPCBASEURL]
+
+// 忘记密码
+#define LPCFORGETPASSWORD  [NSString stringWithFormat:@"%@shopUser/findPsw",LPCBASEURL]
+
+
+// 商品版
+
+// 商品版的未发货和已发货和已完成的下拉刷新
+#define LPSHEDDROPDOWN  [NSString stringWithFormat:@"%@interFace/orderDetail/shopOrderList",LPCBASEURL]
+
+
+// 商品版的未发货和已发货和已完成的下拉刷新
+#define LPSHEDDROPDOWNONE  [NSString stringWithFormat:@"%@/advertisement/testPrePayId",LPCBASEURL]
+//
+
+// 商品的订单详情
+#define LPCGOODSDELEUL  [NSString stringWithFormat:@"%@interFace/orderDetail/informationFindOrderDetail",LPCBASEURL]
+//
+#define LPCGOODSQIEHUAN [NSString stringWithFormat:@"%@interFace/orderDetail/shopFindOrderDetail",LPCBASEURL]
+
+#define LPCSHANGPINTUIKUAIYUANYIN  [NSString stringWithFormat:@"%@interFace/orderDetail/shopFindOrderDetail",LPCBASEURL]
+
+
+// 确认发货的商家快递信息
+#define LPCQUERENFAHUO [NSString stringWithFormat:@"%@interFace/orderDetail/saveExpress",LPCBASEURL]
+
+// 商家审核
+#define LPCSHENHE  [NSString stringWithFormat:@"%@interFace/orderDetail/updateGoodsOrder",LPCBASEURL]
+
+// 确认发货商家自提商品
+#define LPCZITIJIEJKOU  [NSString stringWithFormat:@"%@interFace/orderDetail/siBackMoney",LPCBASEURL]
+
+// 商家提现
+#define LPCSHANGJIATIXIAN [NSString stringWithFormat:@"%@shopUser/pwWithdraw",LPCBASEURL]
+
+// 酒店列表
+#define LPCJIUDIANLIEBIAO  [NSString stringWithFormat:@"%@hotelOrder/orderList",LPCBASEURL]
+
+// 酒店取消订单
+#define LPCQUXIAODINGDAN   [NSString stringWithFormat:@"%@hotelOrder/cancelOrder",LPCBASEURL]
+
+// 酒店的验证核销
+#define LPCYANZHENGHEXIAO  [NSString stringWithFormat:@"%@hotelOrder/orderVerification",LPCBASEURL]
+
+// 饭店的列表
+#define LPCFANDIANLIEBIAO  [NSString stringWithFormat:@"%@restaurantOrder/orderList",LPCBASEURL]
+
+// 饭店的取消订单
+#define LPCFANDIANQUXIAODINGDN [NSString stringWithFormat:@"%@restaurantOrder/cancelOrder",LPCBASEURL]
+
+
+// 饭店的验证核销
+#define LPCFANDIANYANZHENGHEXIAO [NSString stringWithFormat:@"%@restaurantOrder/orderVerification",LPCBASEURL]
+
+// 饭店的详情页
+#define LPCFANDIANXIANGQIYE  [NSString stringWithFormat:@"%@restaurantOrder/orderDetail",LPCBASEURL]
+
+// 饭店的退款待审核列表 interFace/orderDetail/findOrder
+#define LPCTUIJINGKUAI   [NSString stringWithFormat:@"%@restaurantOrder/restaurantRefundOrder",LPCBASEURL]
+
+// 酒店的退款待审核列表 hotelOrder/hotelRefundOrder
+#define LPCJIUDAIDAISHENHE  [NSString stringWithFormat:@"%@hotelOrder/hotelRefundOrder",LPCBASEURL]
+
+// 酒店的退款审核列表的同意退款
+#define LPCJIUDIANDAISHENHETONGYI  [NSString stringWithFormat:@"%@interFace/orderDetail/shopRefundFinsh",LPCBASEURL]
+
+// 酒店的数据统计（今日的营业额）
+#define LPCSHUJUTONGJI   [NSString stringWithFormat:@"%@interFace/orderDetail/orderCount",LPCBASEURL]
+
+// 消息中心的接口 
+#define LPCNEWSCENTENT  [NSString stringWithFormat:@"%@shopUser/myMessage",LPCBASEURL]
+
+// 消息中心的详情页
+#define LPCNEWSXIANGQIYENGYE   [NSString stringWithFormat:@"%@shopUser/myMessageDetail",LPCBASEURL]
+
+// 订单搜索
+#define LPCDINGDANSOUS   [NSString stringWithFormat:@"%@interFace/orderDetail/selectOrder",LPCBASEURL]
+
+// 饭店退款待审核列表
+#define CFANDIANDAISHENHELIEBIAO  [NSString stringWithFormat:@"%@restaurantOrder/restaurantRefundOrder",LPCBASEURL]
+
+
+// 商品退款待审核列表
+#define PCSHANGPINTUIKUAIDINGDAN [NSString stringWithFormat:@"%@interFace/orderDetail/shopRefundORder",LPCBASEURL]

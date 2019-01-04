@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x9152;&#x5e97;&#x7248;/ViewController/LPCHotelNOViewController.m"
+            timestampString = "499846948.645193"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x996d;&#x5e97;&#x7248;/ViewController/ZHJQHMealHotelViewController.m"
+            timestampString = "499853723.323338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1398"
+            endingLineNumber = "1398"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x996d;&#x5e97;&#x7248;/ViewController/ZHJQHMealHotelViewController.m"
+            timestampString = "499853732.203396"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1417"
+            endingLineNumber = "1417"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195417.11316"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1097"
+            endingLineNumber = "1097"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195417.11316"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1073"
+            endingLineNumber = "1073"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932296.845989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1984"
+            endingLineNumber = "1984"
+            landmarkName = "-tableView:heightForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932185.058612"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "913"
+            endingLineNumber = "913"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/LPCsearcjbarshangpinViewController.m"
+            timestampString = "499924558.129542"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "882"
+            endingLineNumber = "882"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/LPCsearcjbarshangpinViewController.m"
+            timestampString = "499924561.242004"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "903"
+            endingLineNumber = "903"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499930723.714113"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "291"
+            endingLineNumber = "291"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932296.845989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1484"
+            endingLineNumber = "1484"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932440.446966"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1892"
+            endingLineNumber = "1892"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932441.830726"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1897"
+            endingLineNumber = "1897"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932442.975636"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1894"
+            endingLineNumber = "1894"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932443.775935"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1888"
+            endingLineNumber = "1888"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932513.625245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1112"
+            endingLineNumber = "1112"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932519.061341"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1114"
+            endingLineNumber = "1114"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x8ba2;&#x5355;&#x4e2d;&#x5fc3;/&#x5546;&#x54c1;&#x7248;/ViewController/LPCGoodsDeliteViewController.m"
+            timestampString = "499932525.810235"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1266"
+            endingLineNumber = "1266"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/&#x672a;&#x4f7f;&#x7528;/LPCNOUseViewController.m"
+            timestampString = "500195292.941401"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-request:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195428.171063"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-request:zhuangtai:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195494.670076"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1594"
+            endingLineNumber = "1594"
+            landmarkName = "-fandiantongyituikuai:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195572.184905"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "-Creat_UI"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195589.177842"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "-request:zhuangtai:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500195601.290338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "-request:zhuangtai:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500197019.045262"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/Module/&#x5e97;&#x94fa;&#x4e2d;&#x5fc3;/ViewController/&#x9000;&#x6b3e;&#x8ba2;&#x5355;/LPCSPTDViewController.m"
+            timestampString = "500198681.184245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "-request:zhuangtai:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LPCSPTDViewController request:zhuangtai:]"
+                  moduleName = "ZHJQShangJia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niuchaofan/Desktop/%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BAsvn/%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BA/%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BA%E5%95%86%E5%AE%B6%E7%AB%AF/ZHJQShangJia/Module/%E5%BA%97%E9%93%BA%E4%B8%AD%E5%BF%83/ViewController/%E9%80%80%E6%AC%BE%E8%AE%A2%E5%8D%95/LPCSPTDViewController.m"
+                  timestampString = "500198681.1891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1433">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__43-[LPCSPTDViewController request:zhuangtai:]_block_invoke108"
+                  moduleName = "ZHJQShangJia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niuchaofan/Desktop/%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BAsvn/%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BA/%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BA%E5%95%86%E5%AE%B6%E7%AB%AF/ZHJQShangJia/Module/%E5%BA%97%E9%93%BA%E4%B8%AD%E5%BF%83/ViewController/%E9%80%80%E6%AC%BE%E8%AE%A2%E5%8D%95/LPCSPTDViewController.m"
+                  timestampString = "500198681.189469"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/&#x4e09;&#x65b9;&#x5e93;/&#x8bf7;&#x6c42;Tool/ZHJQHttpToll.m"
+            timestampString = "500198756.589907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "+GET:parameters:success:failure:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZHJQShangJia/&#x4e09;&#x65b9;&#x5e93;/&#x8bf7;&#x6c42;Tool/ZHJQHttpToll.m"
+            timestampString = "500198815.965777"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "+GET:parameters:hud:success:failure:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

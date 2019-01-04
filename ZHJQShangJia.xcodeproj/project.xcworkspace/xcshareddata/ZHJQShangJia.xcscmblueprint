@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b4569279-32dc-e341-a8c8-8dd28b493029++1322",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b4569279-32dc-e341-a8c8-8dd28b493029++1322" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b4569279-32dc-e341-a8c8-8dd28b493029++1322" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "85810C10-CA4A-40F8-87FA-5960717DA434",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b4569279-32dc-e341-a8c8-8dd28b493029++1322" : "%E6%99%BA%E6%85%A7%E6%99%AF%E5%8C%BA\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZHJQShangJia",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "智慧景区商家端\/ZHJQShangJia.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.201:8443\/svn\/wisdomScenic",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b4569279-32dc-e341-a8c8-8dd28b493029++1322"
+    }
+  ]
+}

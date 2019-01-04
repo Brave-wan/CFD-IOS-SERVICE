@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes
+END
+MWGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridCell.h
+END
+MWPhotoBrowserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoBrowserPrivate.h
+END
+MWCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWCommon.h
+END
+MWCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWCaptionView.h
+END
+MWPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhoto.h
+END
+MWGridViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridViewController.m
+END
+MWGridCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridCell.m
+END
+MWZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWZoomingScrollView.h
+END
+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoBrowser.h
+END
+MWCaptionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWCaptionView.m
+END
+MWPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhoto.m
+END
+MWZoomingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWZoomingScrollView.m
+END
+MWPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoBrowser.m
+END
+MWTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingView.h
+END
+MWTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingImageView.h
+END
+MWPhotoProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoProtocol.h
+END
+MWTapDetectingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingView.m
+END
+MWTapDetectingImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingImageView.m
+END
+MWGridViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/freight/!svn/ver/5/ios/iOS%E7%89%A9%E6%B5%81%E4%BA%8C%E7%89%88/ChatDemo-UI3.0/UIAndSDK/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridViewController.h
+END
